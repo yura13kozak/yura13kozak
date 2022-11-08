@@ -45,7 +45,7 @@ git init
 git add ./
 git commit -m "First commit"
 git remote add origin git@github.com:yura13kozak/yura13kozak.git
-git push --set-upstream origin master
+git push --set-upstream origin main
 
 firefox http://127.0.0.1/
 
