@@ -42,6 +42,7 @@ sudo apache2ctl configtest
 sudo systemctl restart apache2
 
 git init
+git checkout -b main
 git add ./
 git commit -m "First commit"
 git remote add origin git@github.com:yura13kozak/yura13kozak.git
